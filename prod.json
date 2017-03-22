@@ -1,69 +1,99 @@
 {
-    "title": "Florida Polyhacks Info Dump",
-    "schedule": [
+	"title": "Florida Polyhacks Info Dump",
+	"schedule": [
 		{
-	        "title": "Registration Starts",
-	        "time": "Sat. 9:00 AM",
-	        "desc": "Go to the south side of the IST to register.",
-	        "ext_desc": "You'll find some Kindles provided there. Use those."
-    	},
+	        	"title": "Registration Starts",
+	        	"time": "9:00 AM on Saturday",
+	        	"desc": "Go to the south side of the IST to register",
+	        	"ext_desc": "There should be a few people there with Kindles on a table. Use those. Yes, really."
+    		},
 		{
-	        "title": "Opening Ceremony",
-	        "time": "Sat. 11:00 AM",
-	        "desc": "We will introduce the competitions and officially start hacking.",
-	        "ext_desc": "Meet upstairs in the IST Commons."
-    	},
+	        	"title": "Opening Ceremony",
+	        	"time": "11:00 AM on Saturday",
+	        	"desc": "We will introduce the competitions and officially start hacking",
+	        	"ext_desc": "Meet upstairs in the IST Commons."
+    		},
 		{
-	        "title": "Lunch / Team Building",
-	        "time": "Sat. 12:00 PM",
-	        "desc": "Go downstairs to be directed toward lunch.",
-	        "ext_desc": "In the Aula Magna (IST1000/1001)."
-    	},
+	        	"title": "Lunch / Team Building",
+	        	"time": "12:00 PM on Saturday",
+	        	"desc": "Go downstairs to be directed toward lunch",
+	        	"ext_desc": "In the Aula Magna (It's the are labeled 'Food' on the map)."
+    		},
 		{
-	        "title": "Hacking Starts",
-	        "time": "Sat. 12:30 PM",
-	        "desc": "Start working on your projects.",
-	        "ext_desc": "Somewhere in the commons. Yay!"
-    	},
+	        	"title": "Hacking Starts",
+	        	"time": "12:30 PM on Saturday",
+	        	"desc": "Start working on your projects",
+	        	"ext_desc": "Pick a spot somewhere in the areas labeled 'Hacking Space' to start working."
+    		},
 		{
-	        "title": "Dinner",
-	        "time": "Sat. 6:00 PM",
-	        "desc": "Chick-Fil-A in the Aula Magna.",
-	        "ext_desc": "Don't be late!"
-    	},
+	        	"title": "Dinner",
+	        	"time": "6:00 PM on Saturday",
+	        	"desc": "Chick-Fil-A in the Aula Magna",
+	        	"ext_desc": "It's at the same place as last time. Don't be late!"
+    		},
 		{
-	        "title": "Breakfast",
-	        "time": "Sun. 8:00 AM",
-	        "desc": "Sodexo breakfast.",
-	        "ext_desc": "In the Aula Magna."
-    	},
+	        	"title": "Cup Stacking",
+	        	"time": "7:30 PM on Saturday",
+	        	"desc": "Cup stacking with MLH",
+	        	"ext_desc": "Stack cups, have fun!"
+    		},
 		{
-	        "title": "Hacking Ends",
-	        "time": "Sun. 12:30 PM",
-	        "desc": "Hacking officially ends!",
-	        "ext_desc": "Be sure to add your hack to devpost."
-    	},
+	        	"title": "Android Studio Workshop",
+	        	"time": "9:00 PM on Saturday",
+	        	"desc": "Learn the basics of using Android Studio",
+	        	"ext_desc": "This workshop will help guide you through your first time using Android Studio, or provide a refresher if you haven't used it in a while."
+    		},
 		{
-	        "title": "Lunch",
-	        "time": "Sun. 1:00 PM",
-	        "desc": "In the Aula Magna.",
-	        "ext_desc": "Relax now that the hacking is done."
-    	},
+	        	"title": "JS/React Workshop",
+	        	"time": "10:00 PM on Saturday",
+	        	"desc": "Learn the basics of using ReactJS",
+	        	"ext_desc": "This is a placeholder that needs to be replaced."
+    		},
 		{
-	        "title": "Closing Ceremony",
-	        "time": "Sun. 3:00 PM",
-	        "desc": "The official ending for PolyHacks.",
-	        "ext_desc": "Please pack your things and leave shortly after."
-    	}
+	        	"title": "Bubble Wrap",
+	        	"time": "11:00 PM on Saturday",
+	        	"desc": "The holy grail of all things stress-relieving",
+	        	"ext_desc": "After thwarting off code-demons for hours on end, it's nice to sit back, relax, and pop as many bubbles as you can in some bubble wrap."
+    		},
+		{
+	        	"title": "Midnight Snack",
+	        	"time": "12:00 AM on Sunday",
+	        	"desc": "There should really be a proper name for a midnight snack. Lreakfast? Brinner?",
+	        	"ext_desc": "It will be in the same place as last time, just go to the area marked 'Food' on the map."
+    		},
+		{
+	        	"title": "Breakfast",
+	        	"time": "8:00 AM on Sunday",
+	        	"desc": "Sodexo breakfast",
+	        	"ext_desc": "It will be in the same place as all other meals, go to the area marked 'Food' on the map."
+    		},
+		{
+	        	"title": "Hacking Ends",
+	        	"time": "12:30 PM on Sunday",
+	        	"desc": "Hacking officially ends!",
+	        	"ext_desc": "Be sure to add your hack to devpost."
+    		},
+		{
+	        	"title": "Lunch",
+	        	"time": "1:00 PM on Sunday",
+	        	"desc": "In the Aula Magna",
+	        	"ext_desc": "Relax now that the hacking is done."
+    		},
+		{
+	        	"title": "Closing Ceremony",
+	        	"time": "3:00 PM on Sunday",
+	        	"desc": "The official ending for PolyHacks",
+	        	"ext_desc": "We hope you had fun and hope to see you back next year!"
+    		}
 	],
     "announcements": [
 		{
-	        "title": "Announcements Page",
-	        "desc": "Any and all announcements we make will appear here"
-	    },
+			"title": "Announcements Page",
+			"desc": "Any and all announcements we make will appear here"
+		},
 		{
-	        "title": "Second Announcement",
-	        "desc": "We can have multiple announcements..."
-	    }
+			"title": "Second Announcement",
+	        	"desc": "We can have multiple announcements..."
+		}
 	]
 }
