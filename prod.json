@@ -14,10 +14,16 @@
 	        	"ext_desc": "Meet upstairs in the IST Commons."
     		},
 		{
-	        	"title": "Lunch / Team Building",
+	        	"title": "Lunch",
 	        	"time": "12:00 PM on Saturday",
 	        	"desc": "Go downstairs to be directed toward lunch",
 	        	"ext_desc": "In the Aula Magna (It's the are labeled 'Food' on the map)."
+    		},
+		{
+	        	"title": "Team Building",
+	        	"time": "12:00 PM on Saturday",
+	        	"desc": "Need a team? We got you covered.",
+	        	"ext_desc": "We will help you find a team member for your hack, or you could work alone, if you want."
     		},
 		{
 	        	"title": "Hacking Starts",
@@ -38,7 +44,7 @@
 	        	"ext_desc": "Stack cups, have fun!"
     		},
 		{
-	        	"title": "Android Studio Workshop",
+	        	"title": "Android Workshop",
 	        	"time": "9:00 PM on Saturday",
 	        	"desc": "Learn the basics of using Android Studio",
 	        	"ext_desc": "This workshop will help guide you through your first time using Android Studio, or provide a refresher if you haven't used it in a while."
