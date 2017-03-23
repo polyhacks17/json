@@ -17,7 +17,7 @@
 	        	"title": "Lunch",
 	        	"time": "12:00 PM on Saturday",
 	        	"desc": "Go downstairs to be directed toward lunch",
-	        	"ext_desc": "In the Aula Magna (It's the are labeled 'Food' on the map)."
+	        	"ext_desc": "In the Aula Magna (It's the area labeled 'Food' on the map)."
     		},
 		{
 	        	"title": "Team Building",
@@ -29,13 +29,13 @@
 	        	"title": "Hacking Starts",
 	        	"time": "12:30 PM on Saturday",
 	        	"desc": "Start working on your projects",
-	        	"ext_desc": "Pick a spot somewhere in the areas labeled 'Hacking Space' to start working."
+	        	"ext_desc": "Pick a spot somewhere in the areas labeled 'Hacking Space' and start working."
     		},
 		{
 	        	"title": "Dinner",
 	        	"time": "6:00 PM on Saturday",
 	        	"desc": "Meal sponsored by Cole Engineering Services",
-	        	"ext_desc": "We will be serving Chick-Fil-A! It's in the Aula Magna again. Don't be late!"
+	        	"ext_desc": "We will be serving Chick-Fil-A! It's in the same place as last time, just go to the area labeled 'Food' on the map. Don't be late!"
     		},
 		{
 	        	"title": "Cup Stacking",
