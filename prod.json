@@ -16,8 +16,8 @@
 		{
 	        	"title": "Lunch",
 	        	"time": "12:00 PM on Saturday",
-	        	"desc": "Go downstairs to be directed toward lunch",
-	        	"ext_desc": "In the Aula Magna (It's the area labeled 'Food' on the map)."
+	        	"desc": "Meal sponsored by SPONSOR",
+	        	"ext_desc": "We will be having Hungry Howie's! Go to the area labeled 'Food' on the map."
     		},
 		{
 	        	"title": "Team Building",
@@ -31,6 +31,36 @@
 	        	"desc": "Start working on your projects",
 	        	"ext_desc": "Pick a spot somewhere in the areas labeled 'Hacking Space' and start working."
     		},
+		{
+	        	"title": "MVP Workshop",
+	        	"time": "1:00 PM on Saturday",
+	        	"desc": "Workshop by Justin H.",
+	        	"ext_desc": "This area will be filled in later."
+    		},
+		{
+	        	"title": "MVP Workshop",
+	        	"time": "1:00 PM on Saturday",
+	        	"desc": "Workshop by Justin H.",
+	        	"ext_desc": "This area will be filled in later."
+    		},
+		{
+			"title": "Catapult Tech Talk",
+			"time": "2:00 PM on Saturday",
+			"desc": "Tech Talk given by Catapult",
+			"ext_desc": "More details will come later."
+		},
+		{
+			"title": "CESI Workshop",
+			"time": "3:00 PM on Saturday",
+			"desc": "Wokshop sponsored by Cole Engineering Services",
+			"ext_desc": "More details will come later."
+		},
+		{
+			"title": "Git Workshop",
+			"time": "5:00 PM on Saturday",
+			"desc": "Learn to git good",
+			"ext_desc": "This workshop will help guide you through your first time using git, or provide a refresher if you haven't used it in a while. The workshop will be presented by Greg W., one of the PolyHacks organizers."
+		},
 		{
 	        	"title": "Dinner",
 	        	"time": "6:00 PM on Saturday",
@@ -47,13 +77,13 @@
 	        	"title": "Android Workshop",
 	        	"time": "9:00 PM on Saturday",
 	        	"desc": "Learn the basics of using Android Studio",
-	        	"ext_desc": "This workshop will help guide you through your first time using Android Studio, or provide a refresher if you haven't used it in a while."
+	        	"ext_desc": "This workshop will help guide you through your first time using Android Studio, or provide a refresher if you haven't used it in a while. The workshop will be presented by Vamsi H., one of the PolyHacks organizers."
     		},
 		{
 	        	"title": "JS/React Workshop",
 	        	"time": "10:00 PM on Saturday",
 	        	"desc": "Learn the basics of using ReactJS",
-	        	"ext_desc": "This is a placeholder that needs to be replaced."
+	        	"ext_desc": "More details will come later."
     		},
 		{
 	        	"title": "Bubble Wrap",
@@ -64,8 +94,20 @@
 		{
 	        	"title": "Midnight Snack",
 	        	"time": "12:00 AM on Sunday",
-	        	"desc": "There should really be a proper name for a midnight snack. Lreakfast? Brinner?",
+	        	"desc": "There should really be a proper name for a midnight snack. Dreakfast? Brinner?",
 	        	"ext_desc": "It will be in the same place as last time, just go to the area marked 'Food' on the map."
+    		},
+		{
+	        	"title": "Paper Airplane Competition",
+	        	"time": "2:00 AM on Sunday",
+	        	"desc": "A throwback to your middle school days, but now you won't get in trouble for it.",
+	        	"ext_desc": "Build your best flying machine from a standard piece of paper and let our judges critique it based on distance and style."
+    		},
+		{
+	        	"title": "UAV Workshop",
+	        	"time": "7:00 AM on Sunday",
+	        	"desc": "Automated Vehicles Workshop",
+	        	"ext_desc": "More details will come later."
     		},
 		{
 	        	"title": "Breakfast",
@@ -82,8 +124,8 @@
 		{
 	        	"title": "Lunch",
 	        	"time": "1:00 PM on Sunday",
-	        	"desc": "In the Aula Magna",
-	        	"ext_desc": "Relax now that the hacking is done."
+	        	"desc": "Meal sponsored by SPONSOR",
+	        	"ext_desc": "Subway subs, anyone? Head to the area labeled 'Food' on the map to enjoy."
     		},
 		{
 	        	"title": "Closing Ceremony",
@@ -96,10 +138,6 @@
 		{
 			"title": "Announcements Page",
 			"desc": "Any and all announcements we make will appear here"
-		},
-		{
-			"title": "Second Announcement",
-	        	"desc": "We can have multiple announcements..."
 		}
 	]
 }
