@@ -38,12 +38,6 @@
 	        	"ext_desc": "This area will be filled in later."
     		},
 		{
-	        	"title": "MVP Workshop",
-	        	"time": "1:00 PM on Saturday",
-	        	"desc": "Workshop by Justin H.",
-	        	"ext_desc": "This area will be filled in later."
-    		},
-		{
 			"title": "Catapult Tech Talk",
 			"time": "2:00 PM on Saturday",
 			"desc": "Tech Talk given by Catapult",
