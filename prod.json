@@ -130,6 +130,10 @@
 	],
     "announcements": [
 	    	{
+			"title": "Lost Items",
+			"desc": "If you lose any items, they will be available to claim at the front desk (near where you signed in)."
+		},
+	    	{
 			"title": "WolframAlpha API",
 			"desc": "You can now access the WolframAlpha API by going to wolframcloud.com/access and using the code PolyHacksFL2017."
 		},
