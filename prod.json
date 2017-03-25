@@ -130,6 +130,10 @@
 	],
     "announcements": [
 	    	{
+			"title": "WolframAlpha API",
+			"desc": "You can now access the WolframAlpha API by going to wolframcloud.com/access and using the code PolyHacksFL2017."
+		},
+	    	{
 			"title": "Hacking starts now",
 			"desc": "Happy Hacking!"
 		},
