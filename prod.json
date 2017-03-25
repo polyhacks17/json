@@ -16,7 +16,7 @@
 		{
 	        	"title": "Lunch",
 	        	"time": "12:00 PM on Sat",
-	        	"desc": "Meal sponsored by SPONSOR",
+	        	"desc": "Sponsored by Catapult",
 	        	"ext_desc": "We will be having Hungry Howie's! Go to the area labeled 'Food' on the map."
     		},
 		{
@@ -58,7 +58,7 @@
 		{
 	        	"title": "Dinner",
 	        	"time": "6:00 PM on Sat",
-	        	"desc": "Meal sponsored by Cole Engineering Services",
+	        	"desc": "Sponsored by Cole Engineering Services",
 	        	"ext_desc": "We will be serving Chick-Fil-A! It's in the same place as last time, just go to the area labeled 'Food' on the map. Don't be late!"
     		},
 		{
@@ -88,8 +88,8 @@
 		{
 	        	"title": "Midnight Snack",
 	        	"time": "12:00 AM on Sun",
-	        	"desc": "There should really be a proper name for a midnight snack. Dreakfast? Brinner?",
-	        	"ext_desc": "It will be in the same place as last time, just go to the area marked 'Food' on the map."
+	        	"desc": "Sponsored by Florida Polytech",
+	        	"ext_desc": "It will be in the same place as last time, just go to the area marked 'Food' on the map. There should really be a proper name for a midnight snack. Dreakfast? Brinner? "
     		},
 		{
 	        	"title": "Paper Airplane Competition",
@@ -106,7 +106,7 @@
 		{
 	        	"title": "Breakfast",
 	        	"time": "8:00 AM on Sun",
-	        	"desc": "Sodexo breakfast",
+	        	"desc": "Sodexo breakfast sponsored by Florida Polytechnic",
 	        	"ext_desc": "It will be in the same place as all other meals, go to the area marked 'Food' on the map."
     		},
 		{
@@ -118,7 +118,7 @@
 		{
 	        	"title": "Lunch",
 	        	"time": "1:00 PM on Sun",
-	        	"desc": "Meal sponsored by SPONSOR",
+	        	"desc": "Sponsored by Florida Polytechnic",
 	        	"ext_desc": "Subway subs, anyone? Head to the area labeled 'Food' on the map to enjoy."
     		},
 		{
