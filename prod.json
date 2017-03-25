@@ -35,7 +35,7 @@
 	        	"title": "MVP Workshop",
 	        	"time": "1:00 PM on Sat",
 	        	"desc": "Workshop by Justin H.",
-	        	"ext_desc": "This area will be filled in later."
+	        	"ext_desc": "Minimal viable product presentation."
     		},
 		{
 			"title": "Catapult Tech Talk",
@@ -132,6 +132,10 @@
 		{
 			"title": "Announcements Page",
 			"desc": "Any and all announcements we make will appear here"
-		}
+		},
+	    	{
+			"title": "Opening Ceremony",
+			"desc": "Go to the main hacking area to see the Ceremony."
+	    	}
 	]
 }
