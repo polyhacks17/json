@@ -130,6 +130,10 @@
 	],
     "announcements": [
 	    	{
+			"title": "Lunch (Sponsored by Catapult)",
+			"desc": "We are having Hungry Howie's! Make your way down to the area labeled 'Food' on the map."
+		},
+	    	{
 			"title": "Team Building",
 			"desc": "Team building is at noon, if you don't have a team feel free to come!"
 		},
