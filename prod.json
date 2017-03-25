@@ -130,6 +130,10 @@
 	],
     "announcements": [
 	    	{
+			"title": "Hacking starts now",
+			"desc": "Happy Hacking!"
+		},
+	    	{
 			"title": "Lunch (Sponsored by Catapult)",
 			"desc": "We are having Hungry Howie's! Make your way down to the area labeled 'Food' on the map."
 		},
