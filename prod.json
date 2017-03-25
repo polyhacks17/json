@@ -130,6 +130,10 @@
 	],
     "announcements": [
 	    	{
+			"title": "Team Building",
+			"desc": "Team building is at noon, if you don't have a team feel free to come!"
+		},
+	    	{
 			"title": "Opening Ceremony",
 			"desc": "Go to the main hacking area to see the Ceremony."
 	    	}
