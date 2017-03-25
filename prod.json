@@ -129,10 +129,6 @@
     		}
 	],
     "announcements": [
-		{
-			"title": "Announcements Page",
-			"desc": "Any and all announcements we make will appear here"
-		},
 	    	{
 			"title": "Opening Ceremony",
 			"desc": "Go to the main hacking area to see the Ceremony."
