@@ -88,7 +88,7 @@
 		{
 	        	"title": "Midnight Snack",
 	        	"time": "12:00 AM on Sun",
-	        	"desc": "Sponsored by Florida Polytech",
+	        	"desc": "Sponsored by Florida Polytechnic",
 	        	"ext_desc": "It will be in the same place as last time, just go to the area marked 'Food' on the map. There should really be a proper name for a midnight snack. Dreakfast? Brinner? "
     		},
 		{
@@ -110,16 +110,28 @@
 	        	"ext_desc": "It will be in the same place as all other meals, go to the area marked 'Food' on the map."
     		},
 		{
+	        	"title": "Devpost Submission Due",
+	        	"time": "11:30 PM on Sun",
+	        	"desc": "Have your hack submitted to devpost",
+	        	"ext_desc": "Go to https://polyhacks-2017.devpost.com/ and click 'Register for this hackathon'."
+    		},
+		{
 	        	"title": "Hacking Ends",
 	        	"time": "12:30 PM on Sun",
 	        	"desc": "Hacking officially ends!",
-	        	"ext_desc": "Be sure to add your hack to devpost."
+	        	"ext_desc": "Be sure to add your hack to devpost by ."
     		},
 		{
 	        	"title": "Lunch",
 	        	"time": "1:00 PM on Sun",
 	        	"desc": "Sponsored by Florida Polytechnic",
 	        	"ext_desc": "Subway subs, anyone? Head to the area labeled 'Food' on the map to enjoy."
+    		},
+		{
+	        	"title": "Project Demo",
+	        	"time": "1:30 PM on Sun",
+	        	"desc": "Show off your project in the commons",
+	        	"ext_desc": "Your demo will be judged at this time. Don't forget to get your 'I demoed' sticker!"
     		},
 		{
 	        	"title": "Closing Ceremony",
