@@ -135,13 +135,13 @@
     		},
 		{
 	        	"title": "Lunch",
-	        	"time": "1:00 PM on Sun",
+	        	"time": "12:30 PM on Sun",
 	        	"desc": "Sponsored by Florida Polytechnic",
 	        	"ext_desc": "Subway subs, anyone? Head to the area labeled 'Food' on the map to enjoy."
     		},
 		{
 	        	"title": "Project Demo",
-	        	"time": "1:30 PM on Sun",
+	        	"time": "1:00 PM on Sun",
 	        	"desc": "Show off your project in the commons",
 	        	"ext_desc": "Your demo will be judged at this time. Don't forget to get your 'I demoed' sticker!"
     		},
