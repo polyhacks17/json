@@ -154,6 +154,10 @@
 	],
     "announcements": [
 	    	{
+			"title": "Late Devpost Submissions",
+			"desc": "For any late Devpost submissions, please submit to devpost.com/submit-to/4900-polyhacks-2017/autoregister."
+		},
+	    	{
 			"title": "PB&J Stacking",
 			"desc": "There is now a Peanut Butter and Jelly sandwich stacking competition starting at 3:15 AM upstairs."
 		},
