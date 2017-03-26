@@ -98,6 +98,12 @@
 	        	"ext_desc": "Build your best flying machine from a standard piece of paper and let our judges critique it based on distance and style."
     		},
 		{
+	        	"title": "Android Security",
+	        	"time": "2:00 AM on Sun",
+	        	"desc": "Learn about how android security",
+	        	"ext_desc": "Learn all of the ins and outs of Android security."
+    		},
+		{
 	        	"title": "UAV Workshop",
 	        	"time": "7:00 AM on Sun",
 	        	"desc": "Automated Vehicles Workshop",
