@@ -154,6 +154,10 @@
 	],
     "announcements": [
 	    	{
+			"title": "Attention",
+			"desc": "Any team using the FloridaPolyhacks network for their hack needs to find an organizer."
+		},
+	    	{
 			"title": "Demo Table Assignments",
 			"desc": "For team/table assignments for demoing, please view the document at goo.gl/odBvgW."
 		},
