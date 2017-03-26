@@ -104,6 +104,12 @@
 	        	"ext_desc": "Build your best flying machine from a standard piece of paper and let our judges critique it based on distance and style."
     		},
 		{
+	        	"title": "PB&J Stacking",
+	        	"time": "3:15 AM on Sun",
+	        	"desc": "Pretty self-explanatory",
+	        	"ext_desc": "Literally stacking PB&J sandwiches."
+    		},
+		{
 	        	"title": "UAV Workshop",
 	        	"time": "7:00 AM on Sun",
 	        	"desc": "Automated Vehicles Workshop",
