@@ -130,6 +130,10 @@
 	],
     "announcements": [
 	      	{
+			"title": "Android Studio Workshop Update",
+			"desc": "If you plan on attending the Android Studio Workshop at 9, please install Android Studio beforehand."
+		},
+	        {
 			"title": "Twilio Credits",
 			"desc": "You can now use the code 'PolyHacks' to get $30 of free Twilio credits when you upgrade a trial account. It will ask you to enter payment information, but if you uncheck the box, you will not be charged."
 		},
