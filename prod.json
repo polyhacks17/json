@@ -116,16 +116,16 @@
 	        	"ext_desc": "It will be in the same place as all other meals, go to the area marked 'Food' on the map."
     		},
 		{
-	        	"title": "Devpost Submission Due",
-	        	"time": "11:30 PM on Sun",
+	        	"title": "Devpost Submissions",
+	        	"time": "11:30 AM on Sun",
 	        	"desc": "Have your hack submitted to devpost",
-	        	"ext_desc": "Go to https://polyhacks-2017.devpost.com/ and click 'Register for this hackathon'."
+	        	"ext_desc": "Go to polyhacks-2017.devpost.com/ and click 'Register for this hackathon'."
     		},
 		{
 	        	"title": "Hacking Ends",
 	        	"time": "12:30 PM on Sun",
 	        	"desc": "Hacking officially ends!",
-	        	"ext_desc": "Be sure to add your hack to devpost before then."
+	        	"ext_desc": "Be sure to add your hack to devpost before this happens."
     		},
 		{
 	        	"title": "Lunch",
