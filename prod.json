@@ -147,6 +147,10 @@
     		}
 	],
     "announcements": [
+	    	{
+			"title": "Android Security",
+			"desc": "The Android Security workshop will begin momentarily."
+		},
 	      	{
 			"title": "Android Studio Workshop Update",
 			"desc": "If you plan on attending the Android Studio Workshop at 9, please install Android Studio beforehand."
