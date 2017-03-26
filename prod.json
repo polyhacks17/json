@@ -92,16 +92,16 @@
 	        	"ext_desc": "It will be in the same place as last time, just go to the area marked 'Food' on the map. There should really be a proper name for a midnight snack. Dreakfast? Brinner? "
     		},
 		{
+	        	"title": "Android Security",
+	        	"time": "1:00 AM on Sun",
+	        	"desc": "Basic intro to Android Security Workshop",
+	        	"ext_desc": "Learn many of the basic security features found in many modern Android devices. The workshop will be presented by Greg W., one of the PolyHacks organizers."
+    		},
+		{
 	        	"title": "Paper Plane Comp.",
 	        	"time": "2:00 AM on Sun",
 	        	"desc": "A throwback to your middle school days, but now you won't get in trouble for it.",
 	        	"ext_desc": "Build your best flying machine from a standard piece of paper and let our judges critique it based on distance and style."
-    		},
-		{
-	        	"title": "Android Security",
-	        	"time": "2:00 AM on Sun",
-	        	"desc": "Learn about how android security",
-	        	"ext_desc": "Learn all of the ins and outs of Android security."
     		},
 		{
 	        	"title": "UAV Workshop",
