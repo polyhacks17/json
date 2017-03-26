@@ -148,6 +148,10 @@
 	],
     "announcements": [
 	    	{
+			"title": "PB&J Stacking",
+			"desc": "There is now a Peanut Butter and Jelly sandwich stacking competition starting at 3:15 AM upstairs."
+		},
+	    	{
 			"title": "Android Security",
 			"desc": "The Android Security workshop will begin momentarily."
 		},
